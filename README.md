@@ -1,0 +1,2 @@
+# Description
+This project contains a Rust syntax function in noir-lang that demonstrates the use of elliptic curve cryptography (ECC) and ElGamal encryption in the context of financial transactions. The function verifies public/private key pairs, checks balance amounts, and ensures the validity of encrypted balances.
