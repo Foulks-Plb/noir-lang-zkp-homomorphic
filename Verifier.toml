@@ -1,0 +1,41 @@
+hash = "0x01d793fe73b96ad0dbd0dd18a4ca9ad2841de328b9d28908c65c0852ea7528f4"
+
+[balance_new_me_encrypted_1]
+x = "0x1692d54fbb33228517b4cbaf185148d4bcae1f92e698cb6309611ce87392384c"
+y = "0x1f2af9e53d83a65d5893a3a891993f13b13f5fa8305e8e77c58cb031142d2c08"
+
+[balance_new_me_encrypted_2]
+x = "0x2911c6ef263c7ceb1b05eebb9fe8dc630cb49cfe4c51b0ee615ad8e0b632bff4"
+y = "0x08f024f47db5e293be63232f4c724ebff2e1bdb262ed5b4358027429c4c97022"
+
+[balance_new_to_encrypted_1]
+x = "0x0ee95f6ea09099fcf919d5a45e29b5d72481d64825204c3a1acbe0e598df46c9"
+y = "0x14bf131f6a96ba33dc17b152f4c374ad72cc82bba3fd63b51590603af4b4256f"
+
+[balance_new_to_encrypted_2]
+x = "0x28ce64f49a7733e9468bf8d5f67e43b602ed02fd65c0e6fc4effb00494f36f2b"
+y = "0x0b8a37710fa9af5e21af5e55117a12681d09ba1447c515fd5575bbd54a54775f"
+
+[balance_old_me_encrypted_1]
+x = "0x2a42c94cc2e37dcc2bbe7fc39fe3da8f3d4264db64510a0ab0371ef65c5c5c13"
+y = "0x09264bc38c208b085cdac9c688493c85bb875e84d5caaf15525eb86f52d2e2c5"
+
+[balance_old_me_encrypted_2]
+x = "0x1693591edfa6d364b2b6c1009ac6c906c8f6706c0ded7e30f6a930a167fe1031"
+y = "0x1e8ffa789d2a41db7e0b5967e94de494c4910db31006a071310dcfc5afd6fb58"
+
+[balance_old_to_encrypted_1]
+x = "0x04d01c99df21855279cfc90b2dc95d7da11efe769147629a8b082e28d536babe"
+y = "0x2778b57082cebe240623d5ce0c705c580b9efdc648d51d9ee2a51e1c18231ee6"
+
+[balance_old_to_encrypted_2]
+x = "0x034a3488cb7f0347900380e07937802e5bf9374787c99a34f108d0734b89cf1e"
+y = "0x23d4cf4c84e029421eca2c00a49774dbb9053c62f04fc013491d0ac9a26dd067"
+
+[public_key_me]
+x = ""
+y = ""
+
+[public_key_to]
+x = ""
+y = ""

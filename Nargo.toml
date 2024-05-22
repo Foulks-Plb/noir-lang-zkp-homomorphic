@@ -1,0 +1,8 @@
+[package]
+name = "primary_transfer"
+type = "bin"
+authors = ["foulques"]
+compiler_version = "0.28.0"
+
+[dependencies]
+noir_elgamal = { path = "../noir_elgamal" }
